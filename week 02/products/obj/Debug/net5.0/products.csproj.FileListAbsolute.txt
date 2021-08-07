@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\products.exe
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\products.deps.json
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\products.runtimeconfig.json
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\products.runtimeconfig.dev.json
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\products.dll
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\ref\products.dll
+E:\oop SUMMER\week 02\products\bin\Debug\net5.0\products.pdb
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.csprojAssemblyReference.cache
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.AssemblyInfo.cs
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.dll
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\ref\products.dll
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.pdb
+E:\oop SUMMER\week 02\products\obj\Debug\net5.0\products.genruntimeconfig.cache

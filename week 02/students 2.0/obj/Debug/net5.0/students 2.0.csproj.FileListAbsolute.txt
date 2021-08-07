@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\students 2.0.exe
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\students 2.0.deps.json
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\students 2.0.runtimeconfig.json
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\students 2.0.runtimeconfig.dev.json
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\students 2.0.dll
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\ref\students 2.0.dll
+E:\oop SUMMER\week 02\students 2.0\bin\Debug\net5.0\students 2.0.pdb
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.csprojAssemblyReference.cache
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.AssemblyInfo.cs
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.dll
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\ref\students 2.0.dll
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.pdb
+E:\oop SUMMER\week 02\students 2.0\obj\Debug\net5.0\students 2.0.genruntimeconfig.cache

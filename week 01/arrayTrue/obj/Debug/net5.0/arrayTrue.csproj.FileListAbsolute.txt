@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\arrayTrue.exe
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\arrayTrue.deps.json
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\arrayTrue.runtimeconfig.json
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\arrayTrue.runtimeconfig.dev.json
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\arrayTrue.dll
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\ref\arrayTrue.dll
+E:\oop SUMMER\week 01\arrayTrue\bin\Debug\net5.0\arrayTrue.pdb
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.csprojAssemblyReference.cache
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.AssemblyInfo.cs
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.dll
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\ref\arrayTrue.dll
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.pdb
+E:\oop SUMMER\week 01\arrayTrue\obj\Debug\net5.0\arrayTrue.genruntimeconfig.cache

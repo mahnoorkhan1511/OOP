@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\Appointment Diary.exe
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\Appointment Diary.deps.json
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\Appointment Diary.runtimeconfig.json
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\Appointment Diary.runtimeconfig.dev.json
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\Appointment Diary.dll
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\ref\Appointment Diary.dll
+E:\oop SUMMER\week 01\Appointment Diary\bin\Debug\net5.0\Appointment Diary.pdb
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.csprojAssemblyReference.cache
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.AssemblyInfo.cs
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.dll
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\ref\Appointment Diary.dll
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.pdb
+E:\oop SUMMER\week 01\Appointment Diary\obj\Debug\net5.0\Appointment Diary.genruntimeconfig.cache

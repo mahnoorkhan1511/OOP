@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\assign 01.exe
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\assign 01.deps.json
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\assign 01.runtimeconfig.json
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\assign 01.runtimeconfig.dev.json
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\assign 01.dll
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\ref\assign 01.dll
+E:\oop SUMMER\week 01\assign 01\bin\Debug\net5.0\assign 01.pdb
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.csprojAssemblyReference.cache
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.AssemblyInfo.cs
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.dll
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\ref\assign 01.dll
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.pdb
+E:\oop SUMMER\week 01\assign 01\obj\Debug\net5.0\assign 01.genruntimeconfig.cache

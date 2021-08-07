@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\dancing couples.exe
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\dancing couples.deps.json
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\dancing couples.runtimeconfig.json
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\dancing couples.runtimeconfig.dev.json
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\dancing couples.dll
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\ref\dancing couples.dll
+E:\oop SUMMER\week 01\dancing couples\bin\Debug\net5.0\dancing couples.pdb
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.csprojAssemblyReference.cache
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.AssemblyInfo.cs
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.dll
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\ref\dancing couples.dll
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.pdb
+E:\oop SUMMER\week 01\dancing couples\obj\Debug\net5.0\dancing couples.genruntimeconfig.cache

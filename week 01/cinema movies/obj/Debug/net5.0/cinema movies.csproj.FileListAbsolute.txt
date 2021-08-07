@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\cinema movies.exe
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\cinema movies.deps.json
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\cinema movies.runtimeconfig.json
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\cinema movies.runtimeconfig.dev.json
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\cinema movies.dll
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\ref\cinema movies.dll
+E:\oop SUMMER\week 01\cinema movies\bin\Debug\net5.0\cinema movies.pdb
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.csprojAssemblyReference.cache
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.AssemblyInfo.cs
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.dll
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\ref\cinema movies.dll
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.pdb
+E:\oop SUMMER\week 01\cinema movies\obj\Debug\net5.0\cinema movies.genruntimeconfig.cache

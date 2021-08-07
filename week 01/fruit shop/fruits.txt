@@ -1,0 +1,2 @@
+banana,400
+kale,300

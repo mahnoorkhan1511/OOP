@@ -1,0 +1,16 @@
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\fruit shop.exe
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\fruit shop.deps.json
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\fruit shop.runtimeconfig.json
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\fruit shop.runtimeconfig.dev.json
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\fruit shop.dll
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\ref\fruit shop.dll
+E:\oop SUMMER\week 01\fruit shop\bin\Debug\net5.0\fruit shop.pdb
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.csprojAssemblyReference.cache
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.AssemblyInfoInputs.cache
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.AssemblyInfo.cs
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.dll
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\ref\fruit shop.dll
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.pdb
+E:\oop SUMMER\week 01\fruit shop\obj\Debug\net5.0\fruit shop.genruntimeconfig.cache
