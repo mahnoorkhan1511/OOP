@@ -95,15 +95,208 @@ namespace appointment_dashi
                                 Console.WriteLine("  Appointments ");
                                 Console.WriteLine("_________________");
                                 Console.Write("\n");
-                                doc.viewAppointments();           
+                                doc.viewAppointments(); 
+                                Console.WriteLine(" Enter any key to continue..");
+                                Console.ReadKey();          
                             }
-                            
+                            else if( opt == 2 ){
+                                Console.Clear();
+                                Console.WriteLine("  Create Appointment ");
+                                Console.WriteLine("_______________________");
+                                Console.Write("\n");
+                                Console.WriteLine(" Enter the name of the patient ..");
+                                string name = Console.ReadLine();
+                                Console.WriteLine(" Enter the date of appointment ..");
+                                Console.Write(" Date ..  ");
+                                int date = int.Parse(Console.ReadLine());
+                                Console.Write(" Month ..  ");
+                                int month = int.Parse(Console.ReadLine());
+                                Console.Write("Year ..  ");
+                                int year = int.Parse(Console.ReadLine());
+                                string Date = date + "/" + month + "/" + year;
+                                bool ok = doc.patCheck(Date);
+                                if( ok == false ){
+                                    Console.WriteLine(" Enter treatment : ");
+                                    string trt = Console.ReadLine();
+                                    int charges = 0;
+                                    for ( int i = 0; i < doc.treatments.Count ; i++){
+                                        if( trt == doc.treatments[i].name){
+                                            charges = doc.treatments[i].charges;
+                                            doc.addMoney(charges);
+                                        }
+                                    }
+                                    doc.addPatient(name,Date,trt,charges);
+                                }
+                                else{
+                                    Console.WriteLine(" The entered date is already occupied... ");
+                                    Console.WriteLine(" try another date ..");
+                                }
+                                Console.WriteLine(" Enter any key to continue..");
+                                Console.ReadKey();
+                            } 
+                            else if( opt == 3 ){
+                                Console.Clear();
+                                Console.WriteLine("  Cancel Appointment ");
+                                Console.WriteLine("_______________________");
+                                Console.Write("\n");
+                                Console.WriteLine("Enter the date of the appointment to be cancelled ..");
+                                Console.Write("Date .. ");
+                                int date = int.Parse(Console.ReadLine());
+                                Console.Write(" Month ..  ");
+                                int month = int.Parse(Console.ReadLine());
+                                Console.Write("Year ..  ");
+                                int year = int.Parse(Console.ReadLine());
+                                string Date = date + "/" + month + "/" + year;
+                                for ( int i = 0; i < doc.patRecord.Count ; i++){
+                                    if( Date == doc.patRecord[i].date){
+                                        doc.patRecord[i].name = "";
+                                        doc.patRecord[i].date = "";
+                                        doc.patRecord[i].treatment = "";
+                                        doc.moneyEarned = doc.moneyEarned - doc.patRecord[i].moneyPayable;
+                                        doc.patRecord[i].moneyPayable = 0;
+
+                                    }
+                                }
+                                Console.WriteLine(" Enter any key to continue..");
+                                Console.ReadKey();
+                            }
+                            else if( opt == 4){
+                                Console.Clear();
+                                Console.WriteLine("  View Treatments ");
+                                Console.WriteLine("_______________________");
+                                Console.Write("\n");
+                                doc.viewTreatments();
+                                Console.WriteLine(" Enter any key to continue..");
+                                Console.ReadKey();
+                            }
+                            else if( opt == 5 ){
+                                Console.Clear();
+                                Console.WriteLine("  Add Treatment ");
+                                Console.WriteLine("_______________________");
+                                Console.Write("\n");
+                                Console.WriteLine(" Enter the name of the treatment ..");
+                                string name = Console.ReadLine();
+                                bool ok = doc.treatmentIs(name);
+                                if( ok == false ){
+                                    Console.WriteLine("Enter the price of the entered treatment ..");
+                                    int price = int.Parse(Console.ReadLine());
+                                    doc.addTreatment(name,price);
+                                }
+                                else{
+                                    Console.WriteLine(" This treatment already exist ... ");
+                                }
+                                Console.WriteLine(" Enter any key to continue..");
+                                Console.ReadKey();
+                            }
+                            else if( opt == 6){
+                                Console.Clear();
+                                Console.WriteLine("  Total Earning ");
+                                Console.WriteLine("__________________");
+                                Console.Write("\n");
+                                Console.WriteLine(" The total earning made until now is ..");
+                                Console.WriteLine("Rs. {0}",doc.moneyEarned );
+                                Console.WriteLine(" Enter any key to continue..");
+                                Console.ReadKey();
+                            }
                         }
                     }    
-                }else if( option == 2){
+                }
+                else if( option == 2){
                     int opt = 0;
                     while(opt != 5){
                         opt = p.patPage();
+                        if(opt == 1){
+                            Console.Clear();
+                            Console.WriteLine("  Create Appointment ");
+                            Console.WriteLine("_______________________");
+                            Console.Write("\n");
+                            Console.WriteLine(" Enter the name of the patient ..");
+                            string name = Console.ReadLine();
+                            Console.WriteLine(" Enter the date of appointment ..");
+                            Console.Write(" Date ..  ");
+                            int date = int.Parse(Console.ReadLine());
+                            Console.Write(" Month ..  ");
+                            int month = int.Parse(Console.ReadLine());
+                            Console.Write("Year ..  ");
+                            int year = int.Parse(Console.ReadLine());
+                            string Date = date + "/" + month + "/" + year;
+                            bool ok = doc.patCheck(Date);
+                            if( ok == false ){
+                                Console.WriteLine(" Enter treatment : ");
+                                string trt = Console.ReadLine();
+                                int charges = 0;
+                                for ( int i = 0; i < doc.treatments.Count ; i++){
+                                    if( trt == doc.treatments[i].name){
+                                        charges = doc.treatments[i].charges;
+                                        doc.addMoney(charges);
+                                    }
+                                }
+                                doc.addPatient(name,Date,trt,charges);
+                            }
+                            else{
+                                Console.WriteLine(" The entered date is already occupied... ");
+                                Console.WriteLine(" try another date ..");
+                            }
+                            Console.WriteLine(" Enter any key to continue..");
+                            Console.ReadKey();
+                        }
+                        else if( opt == 2){
+                            Console.Clear();
+                            Console.WriteLine("  Cancel Appointment ");
+                            Console.WriteLine("_______________________");
+                            Console.Write("\n");
+                            Console.WriteLine("Enter the date of the appointment to be cancelled ..");
+                            Console.Write("Date .. ");
+                            int date = int.Parse(Console.ReadLine());
+                            Console.Write(" Month ..  ");
+                            int month = int.Parse(Console.ReadLine());
+                            Console.Write("Year ..  ");
+                            int year = int.Parse(Console.ReadLine());
+                            string Date = date + "/" + month + "/" + year;
+                            for ( int i = 0; i < doc.patRecord.Count ; i++){
+                                if( Date == doc.patRecord[i].date){
+                                    doc.patRecord[i].name = "";
+                                    doc.patRecord[i].date = "";
+                                    doc.patRecord[i].treatment = "";
+                                    doc.moneyEarned = doc.moneyEarned - doc.patRecord[i].moneyPayable;
+                                    doc.patRecord[i].moneyPayable = 0;
+                                }
+                            }
+                            Console.WriteLine(" Enter any key to continue..");
+                            Console.ReadKey();
+                        }
+                        else if( opt == 3){
+                            Console.Clear();
+                            Console.WriteLine("  Appointment Status");
+                            Console.WriteLine("_______________________");
+                            Console.Write("\n");
+                            Console.WriteLine("Enter the date of the appointment ..");
+                            Console.Write("Date .. ");
+                            int date = int.Parse(Console.ReadLine());
+                            Console.Write(" Month ..  ");
+                            int month = int.Parse(Console.ReadLine());
+                            Console.Write("Year ..  ");
+                            int year = int.Parse(Console.ReadLine());
+                            string Date = date + "/" + month + "/" + year;
+                            bool active = doc.patCheck(Date);
+                            if(active){
+                                Console.WriteLine(" Your appointment is active !");
+                            }
+                            else {
+                                Console.WriteLine(" Your appointment has been cancelled ..");
+                            }
+                            Console.WriteLine(" Enter any key to continue..");
+                            Console.ReadKey();
+                        }
+                        else if( opt == 4 ){
+                            Console.Clear();
+                            Console.WriteLine("  View Treatments ");
+                            Console.WriteLine("_______________________");
+                            Console.Write("\n");
+                            doc.viewTreatments();
+                            Console.WriteLine(" Enter any key to continue..");
+                            Console.ReadKey();
+                        }
                     }
                 }
             }
