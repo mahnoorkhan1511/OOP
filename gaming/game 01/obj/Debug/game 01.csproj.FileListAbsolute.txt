@@ -1,0 +1,10 @@
+E:\oop SUMMER\gaming\game 01\obj\Debug\game 01.csprojAssemblyReference.cache
+E:\oop SUMMER\gaming\game 01\obj\Debug\game_01.Form1.resources
+E:\oop SUMMER\gaming\game 01\obj\Debug\game_01.Properties.Resources.resources
+E:\oop SUMMER\gaming\game 01\obj\Debug\game 01.csproj.GenerateResource.cache
+E:\oop SUMMER\gaming\game 01\obj\Debug\game 01.csproj.CoreCompileInputs.cache
+E:\oop SUMMER\gaming\game 01\bin\Debug\game 01.exe.config
+E:\oop SUMMER\gaming\game 01\bin\Debug\game 01.exe
+E:\oop SUMMER\gaming\game 01\bin\Debug\game 01.pdb
+E:\oop SUMMER\gaming\game 01\obj\Debug\game 01.exe
+E:\oop SUMMER\gaming\game 01\obj\Debug\game 01.pdb
